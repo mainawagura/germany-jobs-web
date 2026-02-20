@@ -40,9 +40,9 @@ export default function Footer() {
                     <h4>Services</h4>
                     <ul>
                         <li><a href="/jobdetail">Verified Job Listings</a></li>
-                        <li><a href="/process">Application Process</a></li>
-                        <li><a href="/requirements">Eligibility Requirements</a></li>
-                        <li><a href="/faq">Frequently Asked Questions</a></li>
+                        <li><a href="/jobdetail">Application Process</a></li>
+                        <li><a >Eligibility Requirements</a></li>
+                        <li><a >Frequently Asked Questions</a></li>
                     </ul>
                 </div>
 
@@ -50,10 +50,10 @@ export default function Footer() {
                 <div className="footer-section">
                     <h4>Legal & Compliance</h4>
                     <ul>
-                        <li><a href="/privacy">Privacy Policy</a></li>
-                        <li><a href="/terms">Terms of Service</a></li>
-                        <li><a href="/data-protection">Data Protection (GDPR)</a></li>
-                        <li><a href="/report">Report Misconduct</a></li>
+                        <li><a >Privacy Policy</a></li>
+                        <li><a >Terms of Service</a></li>
+                        <li><a >Data Protection (GDPR)</a></li>
+                        <li><a >Report Misconduct</a></li>
                     </ul>
                 </div>
 
